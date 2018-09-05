@@ -1,0 +1,6 @@
+So far, there is alignment-related bug in CMSSW_8_0_X. For running
+	geometry_cfg.py
+	reco_cfg.py
+it is therefore necessary to use
+	/afs/cern.ch/work/j/jkaspar/software/ctpps/integration/production/CMSSW_8_1_0_pre8
+where the bug is fixed.
